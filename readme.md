@@ -1,4 +1,4 @@
-#What is this?
+# What is this?
 
 The Ultimate Claws Mail theme is a theme for Claws Mail with icons from the Ultimate Gnome theme for Gnome.
 News
@@ -6,13 +6,13 @@ Version 0.5.1 is out!
 
 This version adds a couple icons, notably the attach icon.
 
-#Issues
+# Issues
 
     Incomplete Set - not all icons are present. Most common ones are, however. The theme is in development.
     PNG support - This theme is PNG, which requires Claws Mail >= 3.4.0
     Duplicates - I only have the icons from the set, so there are some duplicates where I used the closest available icon.
 
-#Installation
+# Installation
 
 From the official themes page:
 
